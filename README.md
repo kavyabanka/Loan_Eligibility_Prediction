@@ -25,4 +25,4 @@ This project aims to automate the loan eligibility process for Dream Housing Fin
 ## How to Run
 1. Clone the repository.
 2. Install required libraries.
-3. Run the Jupyter notebook or Python script.
+3. Run the Google Colab File.
